@@ -1,5 +1,6 @@
 # About
 The final project for BMGT402 was to use historical data from the UMD Terps Baseball Team to analyze and gain insight about game results across varying games, locations, opponents, and seasons.
+The team project was intended to apply relational database knowledge to a real-world scenario.
 
 # Objectives
 1. To find the top ten games with the highest number of runs by the Terrapins Baseball Team.
